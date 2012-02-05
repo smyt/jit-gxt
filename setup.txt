@@ -2,7 +2,7 @@ SETUP
 =====
 
 To build the jit-gxt and demo application run:
-$ mvn clean build
+$ mvn clean package
 from the root folder (you need to have the maven2 installed)
 
 To add jit-gxt to your web application follow the next few steps:
