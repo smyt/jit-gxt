@@ -1,0 +1,220 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JitGXT 1.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ JitGXT ---
+[INFO] Deleting k:\coding\java\JitGXT\JitGXT\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ JitGXT ---
+[WARNING] Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 13 resources
+[INFO] 
+[INFO] --- gwt-maven-plugin:2.4.0:resources (default) @ JitGXT ---
+[INFO] auto discovered modules [com.newlookphoto.app.JitGXT]
+[INFO] 13 source files from GWT module com.newlookphoto.app.JitGXT
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ JitGXT ---
+[WARNING] File encoding has not been set, using platform encoding Cp1251, i.e. build is platform dependent!
+[INFO] Compiling 12 source files to k:\coding\java\JitGXT\JitGXT\target\classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[6,35] error: package com.extjs.gxt.ui.client.data does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[12,34] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\JsonTreemapVisitor.java:[3,35] error: package com.extjs.gxt.ui.client.data does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[3,35] error: package com.extjs.gxt.ui.client.core does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[4,35] error: package com.extjs.gxt.ui.client.data does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[12,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[32,11] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[3,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[10,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[11,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[12,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[13,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[3,35] error: package com.extjs.gxt.ui.client.core does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[4,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[5,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[6,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[7,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[8,37] error: package com.extjs.gxt.ui.client.widget does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[9,33] error: package com.google.gwt.core.client does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[10,33] error: package com.google.gwt.user.client does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[11,33] error: package com.google.gwt.user.client does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[12,33] error: package com.google.gwt.user.client does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[13,36] error: package com.google.gwt.user.client.ui does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[24,39] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[37,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[40,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[91,28] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[167,32] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[171,31] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[175,29] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[195,19] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[292,30] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[303,28] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[317,46] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\NodeSelectionEvent.java:[3,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\NodeSelectionEvent.java:[4,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\NodeSelectionEvent.java:[11,40] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\NodeSelectionEvent.java:[14,49] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[19,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[20,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[30,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[41,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[53,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[65,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[82,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[107,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[115,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[119,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[123,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[127,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[131,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[139,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[146,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[154,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\JsonTreemapVisitor.java:[32,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\JsonTreemapVisitor.java:[39,25] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\JsonTreemapVisitor.java:[39,45] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[12,44] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[28,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[28,29] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[10,52] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[11,58] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[12,53] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[13,53] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[37,45] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[57,13] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[84,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[82,4] error: method does not override or implement a method from a supertype
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[92,11] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[94,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[94,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[99,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[100,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[105,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[90,4] error: method does not override or implement a method from a supertype
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[110,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[108,4] error: method does not override or implement a method from a supertype
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[124,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[124,31] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[125,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[125,46] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[148,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[148,31] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[149,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[149,21] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[149,37] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[149,46] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[150,29] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[162,16] error: bad operand types for binary operator '=='
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[163,12] error: cannot find symbol
+[INFO] 90 errors 
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.480s
+[INFO] Finished at: Fri Feb 03 20:35:30 YEKT 2012
+[INFO] Final Memory: 13M/176M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:2.3.2:compile (default-compile) on project JitGXT: Compilation failure: Compilation failure:
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[6,35] error: package com.extjs.gxt.ui.client.data does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[12,34] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\JsonTreemapVisitor.java:[3,35] error: package com.extjs.gxt.ui.client.data does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[3,35] error: package com.extjs.gxt.ui.client.core does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[4,35] error: package com.extjs.gxt.ui.client.data does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[12,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[32,11] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[3,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[10,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[11,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[12,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[13,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[3,35] error: package com.extjs.gxt.ui.client.core does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[4,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[5,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[6,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[7,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[8,37] error: package com.extjs.gxt.ui.client.widget does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[9,33] error: package com.google.gwt.core.client does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[10,33] error: package com.google.gwt.user.client does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[11,33] error: package com.google.gwt.user.client does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[12,33] error: package com.google.gwt.user.client does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[13,36] error: package com.google.gwt.user.client.ui does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[24,39] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[37,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[40,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[91,28] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[167,32] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[171,31] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[175,29] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[195,19] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[292,30] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[303,28] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[317,46] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\NodeSelectionEvent.java:[3,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\NodeSelectionEvent.java:[4,36] error: package com.extjs.gxt.ui.client.event does not exist
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\NodeSelectionEvent.java:[11,40] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\NodeSelectionEvent.java:[14,49] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[19,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[20,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[30,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[41,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[53,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[65,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[82,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[107,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[115,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[119,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[123,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[127,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[131,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[139,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[146,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\TreemapModel.java:[154,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\JsonTreemapVisitor.java:[32,15] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\JsonTreemapVisitor.java:[39,25] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\JsonTreemapVisitor.java:[39,45] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[12,44] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[28,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\DictTreemapVisitor.java:[28,29] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[10,52] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[11,58] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[12,53] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\Events\JitEvents.java:[13,53] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[37,45] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[57,13] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[84,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[82,4] error: method does not override or implement a method from a supertype
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[92,11] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[94,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[94,24] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[99,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[100,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[105,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[90,4] error: method does not override or implement a method from a supertype
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[110,8] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[108,4] error: method does not override or implement a method from a supertype
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[124,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[124,31] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[125,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[125,46] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[148,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[148,31] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[149,12] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[149,21] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[149,37] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[149,46] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[150,29] error: cannot find symbol
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[162,16] error: bad operand types for binary operator '=='
+[ERROR] \coding\java\JitGXT\JitGXT\src\main\java\com\newlookphoto\app\client\jit\SquarifiedTreemap.java:[163,12] error: cannot find symbol
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
